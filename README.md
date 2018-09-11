@@ -11,4 +11,4 @@ This code has opensource MIT licence
 
 --------------------------------------------------------------------------
 
-For any question please contact, Jyoti Biswas, Erdong Wang. <br/>
+For citation, please use [![DOI](https://zenodo.org/badge/148357323.svg)](https://zenodo.org/badge/latestdoi/148357323)

@@ -7,4 +7,4 @@ Ion back bombardment is the main cause of cathode charge lifetime limitation in 
 This code has opensource MIT licence
 
 --------------------------------------------------------------------------
-For any question, please contact Jyoti Biswas, or Erdong Wang
+For any question, please contact, Jyoti Biswas, or Erdong Wang

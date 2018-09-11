@@ -1,9 +1,6 @@
 # new-dynamic-ionizer-element
 
-New ionizer elemenet is used to simulate ion back bombardment in DC gun. 
-Ions are generated along the beam line based on electron energy, 
-beam pipe aperture,
- and pressure profile along the beamline.
+Ion back bombardment is the main cause of cathode charge lifetime limitation in high current DC gun. Earlier Ion back-bombardment is studied considering constant pressure along the beam pipe. However in reality Pressure is not constant along the beam pipe, and it varies a lot while the gun is in operation. We developed a new dynamic ionizer element that generates ions based on electrons energy, beampipe aperture and pressure value on that position. 
 
 --------------------------------------------------------------------------
 

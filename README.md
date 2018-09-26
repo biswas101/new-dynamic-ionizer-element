@@ -13,4 +13,4 @@ Ion back bombardment is the main cause of GaAs photocathode lifetime limitation 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details<br/>
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details<br/>

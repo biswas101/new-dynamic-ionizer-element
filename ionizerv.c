@@ -182,7 +182,7 @@ static int ionizerv_sim(gptpar *par,double t,struct ionizerv_info *info)
 // # ionization cross section of electrons on hydrogen according to
 // #  martin reiser: Theory and design of charged particle beams
 	double betaGamma2 = par->GBr[0]*par->GBr[0] + par->GBr[1]*par->GBr[1] +par->GBr[2]*par->GBr[2];
-	if(5.3e-05 > betaGamma2) return 0; // below threshhold
+	if(5.3e-05 > betaGamma2) return 0; // below threshhold. i.e., Electron KE < 14 eV creates no ion.
 	double beta2 = betaGamma2/(betaGamma2+1.);
 	double ff = 6.027e-5/beta2*( 1.659e4*beta2 - 1.);
 //	double sigma = 1.301e-24/beta2*f(beta2)*(log(1.177e5*betaGamma2) - beta2);
